@@ -1,0 +1,19 @@
+#div-trazilica{
+  position: relative;
+}
+
+#rezultat {
+  position: absolute;
+  /*top: 28px;
+  left: 243px;
+  background-color: #b6bbf8;
+  /*padding-right: 0px; */
+}
+
+.col-lg-2 {
+    padding-top: 30px;
+}
+
+.col-lg-8 {
+    padding-top: 20px;
+}
