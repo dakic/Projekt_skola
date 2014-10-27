@@ -7,6 +7,6 @@ With this application you can add students which you can then sign to certain co
 
 Hrvatski jezik je korišten u aplikaciji!
 
-PS. Pišem malo na engleskom malo na hrvatskom jer sam tek otvorio GitHub i početnik sam!
+PS. Pišem malo na engleskom malo na hrvatskom jer sam tek otvorio GitHub i testiram!
 
 DD
